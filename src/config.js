@@ -2,7 +2,7 @@ module.exports = {
     siteTitle: 'PROWE PCs | Custom Builds & Repair',
     siteDescription: 'A local computer building and repair service from your local computer engineering student; Parker Rowe',
     siteKeywords: 'Parker Rowe, PROWE PCs, PC, PROWE, Parker, Rowe, Queens University, Queens, PC Repair, Custom PC, PC Building',
-    siteUrl: 'https://prowe.ca',
+    siteUrl: 'https://pc.prowe.ca',
     siteLanguage: 'en_US',
     googleAnalyticsID: '',
     googleVerification: '',
