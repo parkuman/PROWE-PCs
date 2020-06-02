@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/PROWE-PCs/static/css/main.2ec6df8d.chunk.css",
-    "main.js": "/PROWE-PCs/static/js/main.3db91774.chunk.js",
-    "main.js.map": "/PROWE-PCs/static/js/main.3db91774.chunk.js.map",
-    "runtime-main.js": "/PROWE-PCs/static/js/runtime-main.af3c7cca.js",
-    "runtime-main.js.map": "/PROWE-PCs/static/js/runtime-main.af3c7cca.js.map",
-    "static/js/2.6789de8e.chunk.js": "/PROWE-PCs/static/js/2.6789de8e.chunk.js",
-    "static/js/2.6789de8e.chunk.js.map": "/PROWE-PCs/static/js/2.6789de8e.chunk.js.map",
-    "index.html": "/PROWE-PCs/index.html",
-    "precache-manifest.cfc61c56738aba38c0bd2c7a5c026a3f.js": "/PROWE-PCs/precache-manifest.cfc61c56738aba38c0bd2c7a5c026a3f.js",
-    "service-worker.js": "/PROWE-PCs/service-worker.js",
-    "static/css/main.2ec6df8d.chunk.css.map": "/PROWE-PCs/static/css/main.2ec6df8d.chunk.css.map",
-    "static/js/2.6789de8e.chunk.js.LICENSE.txt": "/PROWE-PCs/static/js/2.6789de8e.chunk.js.LICENSE.txt",
-    "static/media/bg-shadow.svg": "/PROWE-PCs/static/media/bg-shadow.1d9b620b.svg",
-    "static/media/logo.svg": "/PROWE-PCs/static/media/logo.6221e897.svg",
-    "static/media/profilepic.jpg": "/PROWE-PCs/static/media/profilepic.865839e7.jpg"
+    "main.css": "/static/css/main.2ec6df8d.chunk.css",
+    "main.js": "/static/js/main.3db91774.chunk.js",
+    "main.js.map": "/static/js/main.3db91774.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c935498e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c935498e.js.map",
+    "static/js/2.afdc201f.chunk.js": "/static/js/2.afdc201f.chunk.js",
+    "static/js/2.afdc201f.chunk.js.map": "/static/js/2.afdc201f.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.eb3d9de6eda3a8ddac1b2117d15aba2a.js": "/precache-manifest.eb3d9de6eda3a8ddac1b2117d15aba2a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.2ec6df8d.chunk.css.map": "/static/css/main.2ec6df8d.chunk.css.map",
+    "static/js/2.afdc201f.chunk.js.LICENSE.txt": "/static/js/2.afdc201f.chunk.js.LICENSE.txt",
+    "static/media/bg-shadow.svg": "/static/media/bg-shadow.1d9b620b.svg",
+    "static/media/logo.svg": "/static/media/logo.6221e897.svg",
+    "static/media/profilepic.jpg": "/static/media/profilepic.865839e7.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.af3c7cca.js",
-    "static/js/2.6789de8e.chunk.js",
+    "static/js/runtime-main.c935498e.js",
+    "static/js/2.afdc201f.chunk.js",
     "static/css/main.2ec6df8d.chunk.css",
     "static/js/main.3db91774.chunk.js"
   ]
